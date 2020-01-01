@@ -8,7 +8,7 @@ package com.red;
 
 public class MyTest7 {
     public static void main(String[] args) {
-
+        //opengrok
         System.out.println(Singleton.count1);
         System.out.println(Singleton.count2);
     }
